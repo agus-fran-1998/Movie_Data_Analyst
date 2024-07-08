@@ -8,4 +8,6 @@
 
 
 
-Proyecto centrado en la resolución de problemas de negocios del rubro Entretenimiento
+Proyecto centrado en la resolución de problemas de negocios del rubro Entretenimiento. Este proyecto tiene como objetivo analizar diversos aspectos de la industria utilizando técnicas de análisis de datos para obtener insights valiosos para el cliente y que este ultimo pueda tomar decisiones que lo diferencien de la competencia.
+
+
